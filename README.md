@@ -1,5 +1,6 @@
 # HGEN396-Analysis-Scripts
 R Scripts used in scRNA-seq analysis of ND and T2D Islets
+These can be found in the master branch.
 
 Packages used came from Bioconductor: 
 Amezquita, R. A. et al. (2020) Orchestrating single-cell analysis with Bioconductor, Nature Methods, 17(2), pp. 137–145. doi: 10.1038/s41592-019-0654-x.
